@@ -1,0 +1,38 @@
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  text-align: center;
+}
+
+nav ul {
+  list-style-type: none;
+  padding: 10px;
+  display: flex;
+  justify-content: space-around;
+  background-color:lightskyblue;
+  margin-bottom: 20px;
+}
+
+nav ul li {
+  margin: 0;
+  padding: 0;
+}
+
+nav ul li a {
+  color: #fff;
+  text-decoration: none;
+  padding: 10px 20px;
+}
+p{
+  text-align: start;
+}
+
+
+
+
+
+
+
+
